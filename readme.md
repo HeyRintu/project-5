@@ -1,4 +1,4 @@
-# **Project 05:**
+# **Project 05a:**
 
 ## **Name:**  _Rintu Mondal_.🧑🏽‍💻
 <br>
@@ -10,7 +10,7 @@
 
 ## **Live Demo**  💻 
 
->### _[**Live Link**](https://heyrintu-project4.netlify.app/)_
+>### _[**Live Link**](https://inquisitive-valkyrie-ac0d02.netlify.app/)_
 <br>
 
 ## **Preview**🔎
