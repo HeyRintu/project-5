@@ -1,4 +1,4 @@
-# **Project 05a:**
+# **Project 05:**
 
 ## **Name:**  _Rintu Mondal_.🧑🏽‍💻
 <br>
